@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="nfBa22" name="my-first-juce-plugin" projectType="audioplug"
-              useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
+              pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn">
   <MAINGROUP id="krswx8" name="my-first-juce-plugin">
     <GROUP id="{00A502F3-0305-1206-F39B-F15C42BB562E}" name="Source">
       <FILE id="Gme9h6" name="PluginProcessor.cpp" compile="1" resource="0"
